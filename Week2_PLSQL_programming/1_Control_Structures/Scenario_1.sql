@@ -14,3 +14,6 @@ BEGIN
                              ', Name: ' || cust.Name || 
                              ', Age: ' || cust.Age);
     END LOOP;
+COMMIT;
+END;
+/
