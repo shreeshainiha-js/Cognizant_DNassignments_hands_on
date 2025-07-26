@@ -1,0 +1,12 @@
+# Mockito Exercise - Verifying Interactions
+
+## Scenario
+You need to ensure that a method is called with specific arguments during the execution of a service method.  
+This helps validate that the service behaves correctly and interacts with its dependencies as expected.
+
+## Steps to Implement
+
+### 1. Create a Mock Object
+### 2. Call the Method with Specific Arguments
+### 3. Verify the Interaction
+
